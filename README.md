@@ -48,9 +48,10 @@ Metrics: Accuracy, Confusion Matrix, Cross-Dataset Performance.
 
 ---
 ## Results & Insights
-    | Model   | Dataset          | Accuracy    | Remarks                                            |
-| ------- | ----------------- | ----------- | -------------------------------------------------- |
-| **SVM** | Dataset-1 (/content/data1)  | **83.72%** | Demonstrates satisfactory performance for structured, clear images.         |
+
+| Model | Dataset | Accuracy | Remarks |
+| -------- | ---------- | ---------- | ---------- |
+| **SVM** | Dataset-1 (/content/data1)  | **83.72%** | Demonstrates satisfactory performance for structured, clear images. |
 | **CNN** | Dataset-1 (/content/data1) | **91.25** | Better generalization when texture and illumination variations are present. |
 
 ### Key Insight
